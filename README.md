@@ -1,6 +1,6 @@
 # RocketMovie
 
-<div style="text-align:center"><img src="" /></div>
+<div style="text-align:center"><img src="../assets/logo.png" /></div>
 
 ## About this repository
 
